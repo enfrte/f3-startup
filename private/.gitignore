@@ -1,0 +1,6 @@
+vendor
+.vscode
+tmp
+.env
+ReST.rest
+data/pendula_db.sqlite

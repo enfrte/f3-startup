@@ -1,6 +1,0 @@
-vendor
-.vscode
-tmp
-.env
-ReST.rest
-data/startup_db.sqlite
